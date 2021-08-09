@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: orangered;
+    text-align: center;
+}
+
+#presentation, .divs{
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+#presentation p, .divs .div-p, .divs p {
+     text-align: justify;
+}
